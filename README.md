@@ -5,6 +5,6 @@
 - 📱 https://www.linkedin.com/in/angelo-jair-roldan-roca-b22211396/
 
 ### 🛠️ Habilidades Técnicas
-- **Lenguajes:** JavaScript, Python, SQL, Java, HTML 
+- **Lenguajes:** JavaScript, Python, SQL, Java, HTML, PHP
 - **Frameworks:** React, Node.js, Express
 - **Herramientas:** Git, Docker, AWS
